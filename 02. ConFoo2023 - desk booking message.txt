@@ -14,7 +14,7 @@
 				"text": "Main Floor",
 				"emoji": true
 			},
-			"image_url": "https://github.com/cggallant/interactive-slack-bot/blob/main/code/img/floor-plan.jpg?raw=true",
+			"image_url": "https://github.com/cggallant/interactive-slack-bot/blob/main/img/floor-plan.jpg?raw=true",
 			"alt_text": "Main Floor"
 		},
 		{
