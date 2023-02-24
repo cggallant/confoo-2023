@@ -15,6 +15,6 @@ This repository holds the notes and slides from my talks at ConFoo 2023
 
 ## 02. Building an interactive Slack bot (https://confoo.ca/en/2023/session/building-an-interactive-slack-bot)
 
-    (code hasn't been added yet) https://github.com/cggallant/interactive-slack-bot
+    https://github.com/cggallant/interactive-slack-bot
 
     
