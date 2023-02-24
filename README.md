@@ -3,21 +3,23 @@ This repository holds the notes and slides from my talks at ConFoo 2023
 
 
 ## 01. Rapid prototyping with the help of Docker
-    The ConFoo session summary: <https://confoo.ca/en/2023/session/rapid-prototyping-with-the-help-of-docker>
 
-    The Timesheet Simulator:
-    <https://github.com/cggallant/timesheet-simulator>
+The ConFoo session summary: <https://confoo.ca/en/2023/session/rapid-prototyping-with-the-help-of-docker>
 
-    The Blazor WebAssembly Time Entry Status module that works with the Timesheet Simulator:
-    <https://github.com/cggallant/module-blazor-wasm-time-entry-status>
+The Timesheet Simulator:
+<https://github.com/cggallant/timesheet-simulator>
 
-        The original stand-alone Blazor WebAssembly Time Entry Status app that the module is based on: <https://github.com/cggallant/blog_post_code/tree/master/2020-October-BlazorTimeEntryStatus>
+The Blazor WebAssembly Time Entry Status module that works with the Timesheet Simulator:
+<https://github.com/cggallant/module-blazor-wasm-time-entry-status>
+
+The original stand-alone Blazor WebAssembly Time Entry Status app that the module is based on: <https://github.com/cggallant/blog_post_code/tree/master/2020-October-BlazorTimeEntryStatus>
 
 
 ## 02. Building an interactive Slack bot
-    The ConFoo session summary: <https://confoo.ca/en/2023/session/building-an-interactive-slack-bot>
 
-    The bot's code can be found here:
-    <https://github.com/cggallant/interactive-slack-bot>
+The ConFoo session summary: <https://confoo.ca/en/2023/session/building-an-interactive-slack-bot>
+
+The bot's code can be found here:
+<https://github.com/cggallant/interactive-slack-bot>
 
     
